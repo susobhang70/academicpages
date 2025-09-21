@@ -14,10 +14,13 @@ My past work has dealt with problems in the domain of Multi-Agent Systems, Game 
 
 Publications
 ====
+* **Reproducible workflow for online AI in digital health**    
+ *Philosophical Transactions of The Royal Society A* [\[PDF\]](https://www.arxiv.org/abs/2509.13499){:target="_blank"}    
+  ***Susobhan Ghosh<sup>*</sup>**, Bhanu T. Gulapalli<sup>*</sup>, Daiqi Gao, Asim Gazi, Anna Trella, Ziping Xu, Kelly Zhang, Susan A. Murphy*
 
 * **"It felt more real": Investigating the User Experience of the MiWaves Personalizing JITAI Pilot Study**    
-  *Under Review* [\[PDF\]](https://arxiv.org/pdf/2502.17645){:target="_blank"}    
-  ***Susobhan Ghosh**,  Yongyi Guo,  Pei-Yao Hung,  Lara Coughlin,  Erin Bonar,  Inbal Nahum-Shani,  Maureen Walton,  Susan Murphy*    
+  *EAI Pervasive Health 2025* [\[PDF\]](https://arxiv.org/pdf/2502.17645){:target="_blank"}    
+  * **Susobhan Ghosh**,  Yongyi Guo,  Pei-Yao Hung,  Lara Coughlin,  Erin Bonar,  Inbal Nahum-Shani,  Maureen Walton,  Susan Murphy*    
 
 * **Effective Monitoring of Online Decision-Making Algorithms in Digital Intervention Implementation**    
   *Under Review* [\[PDF\]](https://arxiv.org/pdf/2409.10526){:target="_blank"}    
