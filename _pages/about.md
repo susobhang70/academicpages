@@ -22,7 +22,7 @@ Publications
   *EAI Pervasive Health 2025* [\[PDF\]](https://arxiv.org/pdf/2502.17645){:target="_blank"}    
   ***Susobhan Ghosh**, Pei-Yao Hung, Lara N. Coughlin, Erin E. Bonar, Yongyi Guo, Inbal Nahum-Shani, Maureen Walton, Mark W. Newman, Susan A. Murphy*    
 
-* **Digital Twins for Just-in-Time Adaptive Interventions (JITAI-Twins): A Framework for Optimizing and Continually Improving JITAIs**
+* **Digital Twins for Just-in-Time Adaptive Interventions (JITAI-Twins): A Framework for Optimizing and Continually Improving JITAIs**    
   *Under Review* [\[PDF\]](https://preprints.jmir.org/preprint/72830){:target="_blank"}    
   *Asim H. Gazi, Daiqi Gao, **Susobhan Ghosh**, Ziping Xu, Anna Trella, Predrag Klasnja, Susan A. Murphy*
 
@@ -92,17 +92,31 @@ Talks
 * **MiWaves** (d3C Think Tank Oct 2022)
 * **VidyutVanika: A Reinforcement Learning Based Broker Agent for a Power Trading Competition** (AAAI 2019)
 * **Review of Sidebar and it's functionality** (LibreOffice Conference 2016)
-  
+
 ---
 
-Posters  
+Awards  
+====  
+
+* **Siebel Scholar, Class of 2026**, Siebel Foundation (2025)
+* **Best Reviewer Award, AISTATS 2025** (2024)
+* **Gold Medalist**, IIIT Hyderabad (2019)
+* **AAAI Student Scholarship**, AAAI (2019)
+* **Microsoft Research Travel Grant**, Microsoft (2019)
+* **Dean's Merit List**, IIIT Hyderabad (2016-2018)
+* **Central Sector Scheme of Scholarship (CSSS)**, Government of India (2013)
+* **Prime Minister Scholarship Scheme (PMSS)**, Government of India (2013)
+
+---
+
+<!-- Posters  
 ====
 
 * **reBandit: Random Effects based Online RL algorithm for Reducing Cannabis Use** (IJCAI 2024)
 * **MiWaves: AI-driven Digital Health Interventions to help reduce cannabis use** (SCT 2024)
 * **MiWaves: AI-based mHealth intervention to reduce cannabis use among emerging adults** (mDOT Annual Meeting)
 * **MiWaves: AI-based mobile health intervention to reduce cannabis use amongst emerging adults** (Dartmouth Digital Mental Health & AI Symposium)
-* **VidyutVanika: A Reinforcement Learning Based Broker Agent for a Power Trading Competition** (AAAI 2019)
+* **VidyutVanika: A Reinforcement Learning Based Broker Agent for a Power Trading Competition** (AAAI 2019) -->
 
 ---
 

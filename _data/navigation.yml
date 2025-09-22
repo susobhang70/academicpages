@@ -6,9 +6,12 @@ main:
 
   - title: "Talks"
     url: /#talks    
+  
+  - title: "Awards"
+    url: /#awards    
 
-  - title: "Posters"
-    url: /#posters    
+  # - title: "Posters"
+  #   url: /#posters    
 
   - title: "Contact"
     url: /#contact    
