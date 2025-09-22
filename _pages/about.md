@@ -20,7 +20,7 @@ Publications
 
 * **"It felt more real": Investigating the User Experience of the MiWaves Personalizing JITAI Pilot Study**    
   *EAI Pervasive Health 2025* [\[PDF\]](https://arxiv.org/pdf/2502.17645){:target="_blank"}    
-  ***Susobhan Ghosh**,  Yongyi Guo,  Pei-Yao Hung,  Lara Coughlin,  Erin Bonar,  Inbal Nahum-Shani,  Maureen Walton,  Susan Murphy*    
+  ***Susobhan Ghosh**, Pei-Yao Hung, Lara N. Coughlin, Erin E. Bonar, Yongyi Guo, Inbal Nahum-Shani, Maureen Walton, Mark W. Newman, Susan A. Murphy*    
 
 * **Effective Monitoring of Online Decision-Making Algorithms in Digital Intervention Implementation**    
   *Under Review* [\[PDF\]](https://arxiv.org/pdf/2409.10526){:target="_blank"}    
