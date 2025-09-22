@@ -22,6 +22,10 @@ Publications
   *EAI Pervasive Health 2025* [\[PDF\]](https://arxiv.org/pdf/2502.17645){:target="_blank"}    
   ***Susobhan Ghosh**, Pei-Yao Hung, Lara N. Coughlin, Erin E. Bonar, Yongyi Guo, Inbal Nahum-Shani, Maureen Walton, Mark W. Newman, Susan A. Murphy*    
 
+* **Digital Twins for Just-in-Time Adaptive Interventions (JITAI-Twins): A Framework for Optimizing and Continually Improving JITAIs**
+* *Under Review* [\[PDF\]](https://preprints.jmir.org/preprint/72830){:target="_blank"}    
+  *Asim H. Gazi, Daiqi Gao, **Susobhan Ghosh**, Ziping Xu, Anna Trella, Predrag Klasnja, Susan A. Murphy*
+
 * **Effective Monitoring of Online Decision-Making Algorithms in Digital Intervention Implementation**    
   *Under Review* [\[PDF\]](https://arxiv.org/pdf/2409.10526){:target="_blank"}    
   ***Susobhan Ghosh<sup>*</sup>**, Anna Trella<sup>*</sup>, Erin Bonar, Lara Coughlin, Finale Doshi-Velez, Yongyi Guo, Pei-Yao Hung, Inbal Nahum-Shani, Vivek Shetty, Maureen Walton, Iris Yan, Kelly Zhang, Susan A Murphy*
