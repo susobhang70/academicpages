@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Susobhan Ghosh"
-excerpt: "CS PhD Student at Harvard"
+excerpt: "Applied Scientist II at Amazon; PhD in Computer Science from Harvard"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a sixth year (final year) PhD student in the [StatRL](http://people.seas.harvard.edu/~samurphy/lab/overview.html) research group at Harvard University, working with Prof. [Susan Murphy](http://people.seas.harvard.edu/~samurphy/). I am currently focusing on designing Bayesian Reinforcement Learning algorithms for Mobile Health interventions through clinical trials. Recently, we developed and deployed the [reBandit](https://github.com/StatisticalReinforcementLearningLab/miwaves_rl_service) algorithm for the MiWaves clinical trial (Mar to May 2024), aimed at reducing cannabis use among emerging adults (ages 18-25).
+I am an Applied Scientist at Amazon, where I work on personalizing the deals shown to customers on the Amazon.com deals grid. I earned my PhD in Computer Science from Harvard University in May 2026, advised by Prof. [Susan Murphy](http://people.seas.harvard.edu/~samurphy/) in the [StatRL](http://people.seas.harvard.edu/~samurphy/lab/overview.html) research group. My doctoral research focused on designing Bayesian reinforcement learning algorithms for mobile health interventions. As part of this work, we developed and deployed [reBandit](https://github.com/StatisticalReinforcementLearningLab/miwaves_rl_service) in the MiWaves clinical trial (March-May 2024), aimed at reducing cannabis use among emerging adults (ages 18-25).
 
 My past work has dealt with problems in the domain of Multi-Agent Systems, Game Theory & Mechanism Design, and Machine Learning, and I have experience applying them to mobile health settings, computational sustainability problems, social problems like security and planning, and adversarial settings.
 
