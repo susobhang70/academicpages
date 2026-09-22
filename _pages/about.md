@@ -15,20 +15,32 @@ My past work has dealt with problems in the domain of Multi-Agent Systems, Game 
 Publications
 ====
 * **Reproducible workflow for online AI in digital health**    
- *Philosophical Transactions of The Royal Society A* [\[PDF\]](https://www.arxiv.org/abs/2509.13499){:target="_blank"}    
-  ***Susobhan Ghosh<sup>*</sup>**, Bhanu T. Gulapalli<sup>*</sup>, Daiqi Gao, Asim Gazi, Anna Trella, Ziping Xu, Kelly Zhang, Susan A. Murphy*
+  *Philosophical Transactions of The Royal Society A, 2026* [\[Paper\]](https://arxiv.org/abs/2509.13499){:target="_blank"}    
+  ***Susobhan Ghosh<sup>*</sup>**, Bhanu T. Gulapalli<sup>*</sup>, Daiqi Gao, Asim Gazi, Anna Trella, Ziping Xu, Kelly Zhang, Susan A. Murphy*    
 
-* **"It felt more real": Investigating the User Experience of the MiWaves Personalizing JITAI Pilot Study**    
-  *EAI Pervasive Health 2025* [\[PDF\]](https://arxiv.org/pdf/2502.17645){:target="_blank"}    
-  ***Susobhan Ghosh**, Pei-Yao Hung, Lara N. Coughlin, Erin E. Bonar, Yongyi Guo, Inbal Nahum-Shani, Maureen Walton, Mark W. Newman, Susan A. Murphy*    
+* **Effective monitoring of online AI decision-making algorithms in just-in-time adaptive interventions**    
+  *npj Digital Medicine, 2026* [\[Paper\]](https://doi.org/10.1038/s41746-026-02669-4){:target="_blank"}    
+  ***Susobhan Ghosh<sup>*</sup>**, Anna Trella<sup>*</sup>, Erin Bonar, Lara Coughlin, Finale Doshi-Velez, Yongyi Guo, Pei-Yao Hung, Inbal Nahum-Shani, Vivek Shetty, Maureen Walton, Iris Yan, Kelly Zhang, Susan Murphy*    
+
+* **Mobile intervention for emerging adults with regular cannabis use: a micro-randomized trial**    
+  *The Lancet Regional Health - Americas, 61, 2026* [\[Paper\]](https://doi.org/10.1016/j.lana.2026.101524){:target="_blank"}    
+  *Maureen Walton, Inbal Nahum-Shani, Maya Campbell, Devin C. Tomlinson, Autumn Rae Florimbio, **Susobhan Ghosh**, Yongyi Guo, Pei-Yao Hung, Mark W. Newman, Jeremy J. Lin, Tianchen Qian, John Dziak, Huijie Pan, Kelly W. Zhang, Lauren Zimmermann, Erin E. Bonar, Susan A. Murphy, Lara N. Coughlin*    
+
+* **Key Concepts in Online Learning and Decision Making for Personalizing Just-in-Time Adaptive Interventions (pJITAIs)**    
+  *Under Review, 2026* [\[Preprint\]](https://doi.org/10.31234/osf.io/47w3e_v2){:target="_blank"}    
+  *Asim Gazi, **Susobhan Ghosh**, Yongyi Guo, Daiqi Gao, Ziping Xu, Inbal Nahum-Shani, Susan A. Murphy*    
 
 * **Digital Twins for Just-in-Time Adaptive Interventions (JITAI-Twins): A Framework for Optimizing and Continually Improving JITAIs**    
-  *Under Review* [\[PDF\]](https://preprints.jmir.org/preprint/72830){:target="_blank"}    
-  *Asim H. Gazi, Daiqi Gao, **Susobhan Ghosh**, Ziping Xu, Anna Trella, Predrag Klasnja, Susan A. Murphy*
+  *Journal of Medical Internet Research, 2026* [\[Paper\]](https://doi.org/10.2196/72830){:target="_blank"}    
+  *Asim H. Gazi, Daiqi Gao, **Susobhan Ghosh**, Ziping Xu, Anna Trella, Predrag Klasnja, Susan A. Murphy*    
 
-* **Effective Monitoring of Online Decision-Making Algorithms in Digital Intervention Implementation**    
-  *Under Review* [\[PDF\]](https://arxiv.org/pdf/2409.10526){:target="_blank"}    
-  ***Susobhan Ghosh<sup>*</sup>**, Anna Trella<sup>*</sup>, Erin Bonar, Lara Coughlin, Finale Doshi-Velez, Yongyi Guo, Pei-Yao Hung, Inbal Nahum-Shani, Vivek Shetty, Maureen Walton, Iris Yan, Kelly Zhang, Susan A Murphy*
+* **Deployable Online Reinforcement Learning Algorithms for Use-inspired Research in Digital Health**    
+  *PhD Thesis, Harvard University, 2026*    
+  ***Susobhan Ghosh***    
+
+* **"It felt more real": Investigating the User Experience of the MiWaves Personalizing JITAI Pilot Study**    
+  *EAI International Conference on Pervasive Computing Technologies for Healthcare, 2025* [\[PDF\]](https://arxiv.org/pdf/2502.17645){:target="_blank"}    
+  ***Susobhan Ghosh**, Pei-Yao Hung, Lara N. Coughlin, Erin E. Bonar, Yongyi Guo, Inbal Nahum-Shani, Maureen Walton, Mark W. Newman, Susan A. Murphy*    
 
 * **A mobile health intervention for emerging adults with regular cannabis use: A micro-randomized pilot trial design protocol**    
   *Contemporary Clinical Trials* [\[PDF\]](https://pubmed.ncbi.nlm.nih.gov/39159806/){:target="_blank"}    
